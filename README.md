@@ -1,4 +1,4 @@
-# 🚀 Cluster PySpark com Docker
+# 🚀 Cluster Spark com Docker
 
 Este projeto configura um **cluster Apache Spark standalone** utilizando Docker, permitindo a execução de **processamentos batch e streaming** com PySpark de forma simples e escalável.
 
