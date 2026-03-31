@@ -138,7 +138,7 @@ O projeto contém scripts responsáveis por simular um fluxo de dados e processa
 Este script é responsável pela **geração de dados simulados em formato JSON**.
 
 #### 🔹 O que ele faz:
-- Cria registros fictícios (ex: pacientes, eventos ou dados transacionais)
+- Cria registros fictícios (ex: usuários, eventos ou dados transacionais)
 - Estrutura os dados em formato JSON
 - Salva os arquivos na pasta `dados/`
 
