@@ -1,3 +1,2 @@
-# Projeto de Cluster Spark para processamento de dados em Batch e Streaming com Apache Kafka
-
+# Projeto de Cluster Spark para processamento de dados em Batch e Streaming
 ## Em construção...
