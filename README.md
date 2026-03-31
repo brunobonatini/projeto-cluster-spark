@@ -200,7 +200,9 @@ O fluxo completo do projeto segue a seguinte ordem:
    ```bash
    python projeto1.py
 
-🧠 Conceitos Aplicados
+---
+
+## 🧠 Conceitos Aplicados
 
 Arquitetura em camadas (Bronze → Silver → Gold)
 
@@ -212,7 +214,9 @@ Data Lake (armazenamento em arquivos)
 
 Containerização com Docker
 
-💡 Observação
+---
+
+## 💡 Observação
 
 Os scripts foram desenvolvidos com foco educacional, simulando um cenário real de engenharia de dados, podendo ser facilmente adaptados para:
 
