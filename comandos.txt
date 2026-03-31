@@ -10,7 +10,7 @@ python 01-gera_json.py
 # Gera o banco de dados do SQLite
 python 02-cria_database.py
 
-Copiar os arquivos para a pasta do Cluster criado para rodar o scrip PySpark
+Local dos arquivos na pasta do Cluster criado para rodar o scrip PySpark
 projeto1.py -> jobs
 usuários.json, usuários.db, sqlite-jdbc -> dados
 
@@ -20,3 +20,6 @@ docker exec pyspark-master spark-submit --deploy-mode client ./apps/projeto1.py
 # Executa o Job com Driver JDBC
 docker exec pyspark-master spark-submit --jars data/sqlite-jdbc-3.44.1.0.jar --deploy-mode client ./apps/projeto1.py
 
+# Query para consulta no Banco de dados
+select round(avg(idade),1) as media_idade
+from usuarios;

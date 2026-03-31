@@ -7,7 +7,7 @@ import json
 # Gerador de dados de exemplo
 def gera_dados_exemplo(num_registros):
     
-    nomes = ["Alice", "Bruno", "Carol", "Leticia", "Laura", "Luiza", "Kaue", "Brian", "Bruce", "Larissa"]
+    nomes = ["Julia@", "Bruno", "Carol", "Leticia", "Laura", "Luiza", "Kaue", "Brian", "Bruce", "Larissa"]
     cidades = ["Natal", "Sao Paulo", "Blumenau", "Salvador", "Palmas", "Curitiba", "Fortaleza", "Manaus", "Recife", "Porto Alegre"]
 
     for _ in range(num_registros):
