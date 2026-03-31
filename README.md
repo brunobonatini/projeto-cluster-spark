@@ -65,9 +65,13 @@ Após subir o cluster, você pode acessar:
 
 http://localhost:9091
 
+![alt text](spark_cluster.png)
+
 📊 Spark History Server
 
 http://localhost:18081
+
+![alt text](spark_history.png)
 
 📦 Volumes e Persistência
 
